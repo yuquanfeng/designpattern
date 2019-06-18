@@ -11,5 +11,6 @@ public class Paper implements Material {
         System.out.println("我想保护我的家人，我想让他们过上好的生活");
         System.out.println("我想保护晓芳姐姐");
         System.out.println("测试merge命令");
+        System.out.println("测试merge to master");
     }
 }
